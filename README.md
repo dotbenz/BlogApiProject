@@ -7,7 +7,8 @@ The Api contains several endpoints to get information about BlogPosts from the d
 
 Installation
 I used the django package manager to install all of the dependencies for this project pip insatll django pip instal djangorestframework. The JWT package was also
-installed with the command pip install djangorestframework-simplejwt. All dependencies are found in the requirements.txt file
+installed with the command pip install djangorestframework-simplejwt. I also used pip to install faker. faker allowed me to generate dummy data for my database.
+All dependencies are found in the requirements.txt file
 
 EndPoints and Usage
 Each endpoint is included in the Documentation on Insomnia. I have decided to use Insomnia for my Api Testing/Documentation.
