@@ -21,4 +21,8 @@ the refresh token has been set to one day. Once the access token expires, you ca
 http://localhost:8000/api/token/refresh/ with your refresh token and a new access token will be generated
 for you. 
 
+DEMO VIDEO
+You can watch a demo video of this project on loom. Please visit the link 
+https://www.loom.com/share/8404fd64d4244be2b50aaf7f678d4e9e
+
 
